@@ -3,7 +3,7 @@ title: "AI Won't Fix Your Broken Pipeline. It'll Make It Worse."
 pubDatetime: 2026-03-19T12:00:00Z
 description: "Last Tuesday, a team deployed an AI agent to auto-remediate their production incidents. Within four hours it had scaled their ECS cluster to 340 tasks, opened 11 rollback PRs"
 tags: ["devops", "ai", "aws", "python", "agentops"]
-featured: false
+featured: true
 ---
 
 Last Tuesday, a team deployed an AI agent to auto-remediate their production incidents. Within four hours it had scaled their ECS cluster to 340 tasks, opened 11 rollback PRs against the wrong branch, and paged the on-call engineer 47 times. The agent worked exactly as designed. The pipeline it was plugged into did not.

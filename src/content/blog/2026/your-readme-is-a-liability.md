@@ -3,7 +3,7 @@ title: "Your README Is a Liability Now"
 pubDatetime: 2026-05-20T12:00:00Z
 description: "I watched an AI coding agent burn 40,000 tokens reading a README last week. Badges. A logo in ASCII art. A \"Philosophy\" section. A contributor covenant. A table of contents"
 tags: ["devops", "ai", "python", "documentation", "developer-experience"]
-featured: false
+featured: true
 ---
 
 I watched an AI coding agent burn 40,000 tokens reading a README last week. Badges. A logo in ASCII art. A "Philosophy" section. A contributor covenant. A table of contents linking to a wiki that 404'd. The agent needed three things: the build command, the test runner, and which env vars to set. It got those answers on lines 847, 912, and 1,034 of a 1,200-line file. Everything above was noise. Expensive noise, at roughly $0.02 per wasted read, multiplied by every developer on the team, every session, every day.
