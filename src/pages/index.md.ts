@@ -3,7 +3,7 @@ import type { APIRoute } from "astro";
 export const GET: APIRoute = async () => {
   const markdownContent = `# Ricardo Salcedo (@ricardosalcedo)
 
-FPGA Platform Engineer. Building developer infrastructure for satellite networking hardware.
+Software engineer with 23 years of shipping code. AI-augmented workflows for high-velocity delivery.
 
 ## Navigation
 

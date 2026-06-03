@@ -34,7 +34,7 @@ export const SITE: Site = {
   website: "https://ricardosalcedo.github.io/",
   author: "Ricardo Salcedo",
   profile: "https://ricardosalcedo.github.io/about",
-  desc: "FPGA Platform Engineer. Building developer infrastructure for satellite networking hardware.",
+  desc: "Software engineer with 23 years of shipping code. AI-augmented workflows for high-velocity delivery.",
   title: "Ricardo Salcedo",
   ogImage: "avatar.jpg",
   lightAndDarkMode: true,
