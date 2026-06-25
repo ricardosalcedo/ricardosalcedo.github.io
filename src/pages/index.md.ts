@@ -15,7 +15,7 @@ Software engineer with 23 years of shipping code. AI-augmented workflows for hig
 ## Links
 
 - GitHub: [@ricardosalcedo](https://github.com/ricardosalcedo)
-- LinkedIn: [Ricardo Salcedo](https://www.linkedin.com/in/ricardosalcedo/)
+- LinkedIn: [Ricardo Salcedo](https://www.linkedin.com/in/ricardo-s-98283913/)
 - Email: ricardo.salcedo@gmail.com
 
 ---
